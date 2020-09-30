@@ -1,0 +1,23 @@
+.login {
+  padding-top: 150px;
+  height: 100vh;
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid green;
+  background-image: url("https://images.unsplash.com/photo-1585064788609-b216a8e6613b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 5px;
+  color: white;
+}
+h2 {
+  text-align: center;
+  color: white;
+  margin-bottom: 60px;
+}
+h3 {
+  color: white;
+  text-align: center;
+}
